@@ -17,7 +17,7 @@
   ·
   <a href="https://cnbuyspreadsheet.github.io/Oopbuy-Spreadsheet/blog/index.html">📚 Read Buying Guides</a>
   ·
-  <a href="https://astroreps.com/category/others">🔥 View Current Finds</a>
+  <a href="https://astroreps.com/category/all">🔥 Browse All Finds</a>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Instead of jumping into random links, use this hub to:
 | Destination | Best For | Link |
 |---|---|---|
 | 🏠 Main Hub | Start from the full OopBuy Spreadsheet homepage | [Open Main Hub](https://cnbuyspreadsheet.github.io/Oopbuy-Spreadsheet/) |
-| 🛍️ Current Finds | Jump directly into live product discovery | [Browse Current Finds](https://astroreps.com/category/others) |
+| 🛍️ Current Finds | Jump directly into the full live finds directory | [Browse All Finds](https://astroreps.com/category/all) |
 | 👟 Shoes | Sneaker finds, insole checks, sole shape, box decisions | [Open Shoes Guide](https://cnbuyspreadsheet.github.io/Oopbuy-Spreadsheet/category/shoes.html) |
 | 🧥 Hoodies | Fit, fabric weight, embroidery, shoulder measurements | [Open Hoodie Guide](https://cnbuyspreadsheet.github.io/Oopbuy-Spreadsheet/category/hoodies-sweaters.html) |
 | 📚 Guides | Safety, shipping, QC, coupons, beginner workflow | [Read Buyer Guides](https://cnbuyspreadsheet.github.io/Oopbuy-Spreadsheet/blog/index.html) |
